@@ -1,3 +1,0 @@
-this is the first time for me to learn git command.
-I am zhangle,test for commit and add.
-# test for pull command. 
